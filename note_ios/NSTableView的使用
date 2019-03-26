@@ -1,0 +1,6 @@
+1、registerNib:forCellResusedIdentifier
+向数据源注册cell
+
+2、cellForRowAtIndexPath
+
+3、tableView dequeueReusableCellWithIdentifier:cellForRowAtIndexPath。
